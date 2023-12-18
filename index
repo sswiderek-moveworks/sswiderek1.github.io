@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resource Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Repeat this block for each item -->
+        <div class="card">
+            <img src="image-url.jpg" alt="Project Image">
+            <h3>Project Title</h3>
+        </div>
+        <!-- ... -->
+    </div>
+</body>
+</html>
